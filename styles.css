@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.parent{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
